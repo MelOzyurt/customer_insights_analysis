@@ -1,0 +1,101 @@
+Customer ID,Touchpoint,Feedback,Sentiment,Suggested Improvement
+101,Manage Page,Tasks not visible,Negative,Enable notifications
+100,Document Management,Unclear organization,Neutral,Document versioning
+113,Cash Flow,Data is outdated,Positive,Add charts
+111,Finance,Difficult to track expenses,Positive,Clarify payment steps
+105,Shop,Layout confusing,Neutral,Improve search
+120,Document Management,Hard to upload,Positive,Document versioning
+101,Design,Colors are too bright,Neutral,Add tooltips
+106,Document Management,Can't find old versions,Negative,Document versioning
+105,Project Page,Slow to load,Negative,Highlight recent updates
+100,Cash Flow,Hard to understand,Negative,Real-time updates
+115,Finance,Breakdown unclear,Negative,Use icons for clarity
+107,Cash Flow,Hard to understand,Negative,Add charts
+119,Project Page,Too much text,Negative,Speed up loading
+117,Manage Page,Tasks not visible,Negative,Enable notifications
+120,Cash Flow,No trend line,Neutral,Real-time updates
+101,Project Page,Too much text,Negative,Speed up loading
+110,Shop,Layout confusing,Positive,Improve search
+108,Cash Flow,Hard to understand,Positive,Add charts
+100,Cash Flow,Data is outdated,Neutral,Forecasting tool
+111,Cash Flow,No trend line,Neutral,Add charts
+117,Cash Flow,Data is outdated,Neutral,Forecasting tool
+101,Cash Flow,No trend line,Neutral,Add charts
+115,Finance,Breakdown unclear,Negative,Clarify payment steps
+103,Finance,Difficult to track expenses,Negative,Add cost breakdown
+114,Shop,Specs hard to find,Negative,Show product comparisons
+120,Shop,Specs hard to find,Positive,Show product comparisons
+112,Shop,Layout confusing,Neutral,Improve search
+112,Design,UI is cluttered,Negative,Add tooltips
+120,Design,UI is cluttered,Positive,Add tooltips
+114,Design,UI is cluttered,Negative,Simplify layout
+114,Document Management,Unclear organization,Negative,Document versioning
+108,Document Management,Can't find old versions,Positive,Bulk upload
+109,Shop,Specs hard to find,Negative,Show product comparisons
+101,Shop,Layout confusing,Negative,Show product comparisons
+109,Project Page,Too much text,Neutral,Speed up loading
+114,Design,UI is cluttered,Positive,Simplify layout
+112,Project Page,Too much text,Positive,Add timeline view
+120,Design,Colors are too bright,Neutral,Simplify layout
+117,Project Page,Slow to load,Positive,Highlight recent updates
+118,Shop,Specs hard to find,Negative,Improve search
+105,Design,Colors are too bright,Neutral,Simplify layout
+114,Project Page,Hard to find files,Negative,Add timeline view
+115,Shop,Layout confusing,Positive,Improve search
+110,Finance,Breakdown unclear,Negative,Use icons for clarity
+114,Finance,Breakdown unclear,Negative,Use icons for clarity
+102,Project Page,Too much text,Positive,Highlight recent updates
+108,Document Management,Unclear organization,Negative,Bulk upload
+120,Cash Flow,Data is outdated,Positive,Add charts
+109,Project Page,Too much text,Neutral,Speed up loading
+105,Document Management,Can't find old versions,Negative,Document versioning
+102,Cash Flow,Data is outdated,Negative,Real-time updates
+104,Finance,Difficult to track expenses,Negative,Add cost breakdown
+103,Project Page,Hard to find files,Neutral,Add timeline view
+120,Project Page,Too much text,Negative,Highlight recent updates
+114,Cash Flow,Hard to understand,Positive,Real-time updates
+117,Shop,Layout confusing,Negative,Improve search
+104,Shop,Specs hard to find,Negative,Improve search
+115,Design,Text is hard to read,Negative,Simplify layout
+103,Finance,Missing tax details,Positive,Use icons for clarity
+118,Cash Flow,No trend line,Positive,Add charts
+117,Cash Flow,Data is outdated,Negative,Add charts
+114,Manage Page,Tasks not visible,Negative,Enable notifications
+108,Shop,No filters,Neutral,Improve search
+101,Design,UI is cluttered,Negative,Improve visual hierarchy
+111,Cash Flow,No trend line,Neutral,Forecasting tool
+112,Cash Flow,Hard to understand,Positive,Real-time updates
+102,Finance,Difficult to track expenses,Negative,Use icons for clarity
+107,Finance,Difficult to track expenses,Negative,Clarify payment steps
+120,Finance,Breakdown unclear,Negative,Use icons for clarity
+118,Manage Page,No alerts,Positive,Show progress bars
+104,Document Management,Unclear organization,Positive,Bulk upload
+114,Manage Page,No alerts,Neutral,Add task tracking
+111,Document Management,Hard to upload,Negative,Improve categorization
+103,Document Management,Unclear organization,Positive,Improve categorization
+117,Document Management,Can't find old versions,Neutral,Bulk upload
+112,Design,UI is cluttered,Positive,Add tooltips
+105,Manage Page,No alerts,Neutral,Add task tracking
+119,Design,Colors are too bright,Negative,Improve visual hierarchy
+111,Project Page,Slow to load,Neutral,Highlight recent updates
+114,Design,Colors are too bright,Neutral,Improve visual hierarchy
+114,Shop,Specs hard to find,Negative,Improve search
+104,Cash Flow,Data is outdated,Negative,Real-time updates
+110,Cash Flow,Data is outdated,Positive,Forecasting tool
+102,Document Management,Hard to upload,Negative,Improve categorization
+104,Manage Page,No alerts,Negative,Add task tracking
+117,Project Page,Too much text,Negative,Speed up loading
+104,Design,Colors are too bright,Negative,Add tooltips
+117,Cash Flow,Data is outdated,Neutral,Add charts
+112,Project Page,Hard to find files,Negative,Speed up loading
+120,Project Page,Slow to load,Positive,Add timeline view
+114,Document Management,Unclear organization,Neutral,Bulk upload
+111,Project Page,Slow to load,Negative,Speed up loading
+114,Finance,Missing tax details,Positive,Add cost breakdown
+115,Cash Flow,Data is outdated,Positive,Add charts
+119,Shop,Specs hard to find,Negative,Add filters
+102,Document Management,Hard to upload,Neutral,Bulk upload
+102,Cash Flow,Data is outdated,Negative,Add charts
+120,Shop,Specs hard to find,Positive,Show product comparisons
+104,Document Management,Unclear organization,Neutral,Document versioning
+101,Project Page,Slow to load,Negative,Speed up loading
